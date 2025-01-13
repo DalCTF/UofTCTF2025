@@ -2,7 +2,7 @@
 
 ## Analysis
 
-The problem provides us the [source code](./chal.c) of a `C` program and a machine to be connected via `SSH`. The machine contained an executable of the source code provided with the `setuid` flag enabled. It also contained a file `flag.txt` on the system's root.
+The problem provides us the [source code](./chal.c) of a `C` program and a machine to be connected via `SSH`. The machine contained an executable of the source code provided with the `setuid` flag enabled inside the `/challenge` folder. It also contained a file `flag.txt` on the system's root.
 
 ## Solution
 
