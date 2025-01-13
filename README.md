@@ -7,3 +7,9 @@ Problems:
 <!-- MDFT . !include_files,max_depth=2 -->
 - [Misc/](Misc)
 	- [Racing/](Misc/Racing)
+- [Crypto/](Crypto)
+	- [TimedAES/](Crypto/TimedAES)
+	- [Causation/](Crypto/Causation)
+	- [EnchantedOracle/](Crypto/EnchantedOracle)
+	- [FunnyCipher/](Crypto/FunnyCipher)
+	- [Shuffler/](Crypto/Shuffler)
