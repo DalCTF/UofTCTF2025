@@ -6,6 +6,7 @@ Problems:
 
 <!-- MDFT . !include_files,max_depth=2 -->
 - [Misc/](Misc)
+	- [Racing 2/](Misc/Racing%202)
 	- [Racing/](Misc/Racing)
 - [Forensics/](Forensics)
 	- [MinecraftSafe/](Forensics/MinecraftSafe)
