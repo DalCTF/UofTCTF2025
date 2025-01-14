@@ -2,7 +2,7 @@
 
 ## Analysis
 
-This problems builds on the problem [Racing](/writeups/UofTCTF2025_Misc_Racing). Once again, we are given the [source code](./chal.c) for a `C` program and a machine to connect to via `SSH`. The machine contained an executable of the source code provided with the `setuid` flag enabled inside the `/challenge` folder. It also contained a file `flag.txt` on the system's root.
+This problems builds on the problem [Racing](https://dalctf.github.io/writeups/UofTCTF2025_Misc_Racing/). Once again, we are given the [source code](./chal.c) for a `C` program and a machine to connect to via `SSH`. The machine contained an executable of the source code provided with the `setuid` flag enabled inside the `/challenge` folder. It also contained a file `flag.txt` on the system's root.
 
 ## Solution
 
